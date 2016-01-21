@@ -4,7 +4,7 @@
 # import scraperwiki
 # import lxml.html
 #
-myvar = 'he said "wasshup?".'
+myvar = 'he said "welcome!".'
 myage = 35
 mylist  = ['Tuesday,'Wednesday','Thursday']
 mynumlist = [1,15,25,35]
