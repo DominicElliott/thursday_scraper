@@ -12,7 +12,7 @@ print myvar
 print myage
 print mylist
 print mylist[1] 
-print mynumlist[2:3]
+print mynumlist[1:3]
 
 listlength = len(mylist)
 stringlength = len(myvar)
