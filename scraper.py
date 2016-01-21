@@ -6,7 +6,7 @@
 #
 myvar = 'he said "welcome!".'
 myage = 35
-mylist  = ['Tuesday,'Wednesday','Thursday']
+mylist  = ['Tuesday','Wednesday','Thursday']
 mynumlist = [1,15,25,35]
 print myvar
 print myage
