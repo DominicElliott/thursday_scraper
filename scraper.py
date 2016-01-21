@@ -11,14 +11,16 @@ mynumlist = [1,15,25,35]
 print myvar
 print myage
 print mylist
+print mylist[2] 
+print mynumlist[3:4]
+
 listlength = len(mylist)
 stringlength = len(myvar)
 numlength = len(myage)
 print listlength
 print stringlength
 print numlength
-print mylist[2] 
-print mynumlist[3:4]
+
 
 # # Find something on the page using css selectors
 # root = lxml.html.fromstring(html)
