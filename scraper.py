@@ -4,9 +4,15 @@
 # import scraperwiki
 # import lxml.html
 #
-# # Read in a page
-# html = scraperwiki.scrape("http://foo.com")
-#
+myvar = 'he said "wasshup?".'
+myage = 35
+mylist  = ['Tuesday,'Wednesday','Thursday']
+mynumlist = [1,15,25,35]
+print myvar
+print myage
+print my list
+listlength = len(mylist)
+
 # # Find something on the page using css selectors
 # root = lxml.html.fromstring(html)
 # root.cssselect("div[align='left']")
