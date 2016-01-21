@@ -12,6 +12,10 @@ print myvar
 print myage
 print mylist
 listlength = len(mylist)
+mylist[2] = returns
+print mylist[2]
+mynumlist[3:4] = returns
+print mynumlist[3:4]
 
 # # Find something on the page using css selectors
 # root = lxml.html.fromstring(html)
