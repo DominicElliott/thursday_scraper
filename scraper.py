@@ -10,7 +10,7 @@ mylist  = ['Tuesday,'Wednesday','Thursday']
 mynumlist = [1,15,25,35]
 print myvar
 print myage
-print my list
+print mylist
 listlength = len(mylist)
 
 # # Find something on the page using css selectors
