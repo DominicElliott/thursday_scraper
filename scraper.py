@@ -11,12 +11,11 @@ mynumlist = [1,15,25,35]
 print myvar
 print myage
 print mylist
-print mylist[2] 
-print mynumlist[3:4]
+print mylist[1] 
+print mynumlist[2:3]
 
 listlength = len(mylist)
 stringlength = len(myvar)
-numlength = len(myage)
 print listlength
 print stringlength
 print numlength
